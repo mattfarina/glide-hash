@@ -1,6 +1,6 @@
 package: github.com/mattfarina/glide-hash
 import:
 - package: github.com/Masterminds/glide
-  version: ~0.8.0
+  version: ^0.8.0
   subpackages:
   - cfg
